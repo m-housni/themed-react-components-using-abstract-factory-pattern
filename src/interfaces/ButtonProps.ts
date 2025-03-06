@@ -1,4 +1,4 @@
 export default interface ButtonProps {
-    label: string;
-    onClick: () => void;
-  }
+  label: string;
+  onClick: () => void;
+}
