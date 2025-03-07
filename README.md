@@ -4,6 +4,11 @@ This project demonstrates how to create themed React components using the Abstra
 
 ![image](https://github.com/user-attachments/assets/ce0648bc-b329-42da-82be-1a35e2914b6c)
 
+## Demo
+
+View a live demo of the project [here](https://m-housni.github.io/themed-react-components-using-abstract-factory-pattern/).
+
+
 ## Installation
 
 To get started with this project, clone the repository and install the dependencies:
