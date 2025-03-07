@@ -8,6 +8,16 @@ This project demonstrates how to create themed React components using the Abstra
 
 View a live demo of the project [here](https://m-housni.github.io/themed-react-components-using-abstract-factory-pattern/).
 
+### **Explanation**
+- **Abstract Factory (`ButtonFactory`)** defines a contract for creating button variations.
+- **Concrete Factories (`LightThemeFactory`, `DarkThemeFactory`)** provide specific button implementations.
+- **Context (`ThemeContext`)** dynamically switches factories based on the selected theme.
+- **Reusable Component (`ThemedButton`)** calls the factory to create buttons dynamically.
+
+### **Benefits**
+✅ Ensures scalability by allowing easy addition of new themes or variations.  
+✅ Decouples UI components from their specific implementations.  
+✅ Enhances reusability and maintainability in large applications.
 
 ## Installation
 
